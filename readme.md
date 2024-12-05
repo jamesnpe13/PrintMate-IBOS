@@ -1,9 +1,9 @@
 
-# PrintMate  
+# PrintMate IBOS
 
 ### **Streamline Your Print Business Operations**  
 
-**PrintMate** is an all-in-one Integrated Business Operating System (IBOS) designed to revolutionise print business management. Built using **AvaloniaUI**, it provides a comprehensive suite of tools, combining ease of use, scalability, and cross-platform compatibility for Windows, macOS, Linux, and mobile platforms.  
+**PrintMate IBOS** is an all-in-one Integrated Business Operating System (IBOS) designed to revolutionise print business management. Built using **AvaloniaUI**, it provides a comprehensive suite of tools, combining ease of use, scalability, and cross-platform compatibility for Windows, macOS, Linux, and mobile platforms.  
 
 ---
 
@@ -98,6 +98,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📧 Contact  
 
 For questions or suggestions, feel free to contact:  
-- **Name**: Your Name  
-- **Email**: your-email@example.com  
-- **GitHub**: [your-username](https://github.com/your-username)  
+- **Name**: James Elazegui  
+- **Email**: jameselazegui21@gmail.com  
+- **GitHub**: https://github.com/jamesnpe13
