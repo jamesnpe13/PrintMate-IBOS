@@ -1,9 +1,9 @@
 
-# **Streamline360 IBOS**
+# **Streamline+ IBOS**
 
 ### **Streamline Your Print Business Operations**
 
-**Streamline360 IBOS** is an all-in-one Integrated Business Operating System (IBOS) designed to revolutionise print business management. Built using **AvaloniaUI**, it provides a comprehensive suite of tools, combining ease of use, scalability, and cross-platform compatibility for Windows, macOS, Linux, and mobile platforms.
+**Streamline+ IBOS** is an all-in-one Integrated Business Operating System (IBOS) designed to revolutionise print business management. Built using **AvaloniaUI**, it provides a comprehensive suite of tools, combining ease of use, scalability, and cross-platform compatibility for Windows, macOS, Linux, and mobile platforms.
 
 ---
 
@@ -43,7 +43,7 @@
 ## 🚀 Getting Started
 
 ### **Prerequisites**
-Before running Streamline360, ensure the following are installed:
+Before running Streamline+, ensure the following are installed:
 - [.NET SDK](https://dotnet.microsoft.com/) (version 6.0 or higher).
 - [Git](https://git-scm.com/).
 
