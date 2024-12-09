@@ -51,8 +51,8 @@ Before running Streamline+, ensure the following are installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/streamline360.git
-cd streamline360
+git clone https://github.com/your-username/streamlinePlus.git
+cd streamlinePlus
 ```
 
 #### 2. Restore Dependencies
@@ -69,7 +69,7 @@ dotnet run
 
 ## 🤝 Contributing
 
-We welcome contributions to **Streamline360**!
+We welcome contributions to **Streamline+**!
 
 ### **How to Contribute:**
 1. Fork the repository.
